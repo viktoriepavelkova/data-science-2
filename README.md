@@ -9,6 +9,7 @@ Contact:
 
 **Changes:**
 - Practicals from 31. 3. are swapped with the lecture from 24. 3. — this means two lectures one week, followed by two practicals the next week.
+- Section on LLM during exams usage added (see below)
 
 This repository contains materials to the Data Science 2 - NMFP436 course.
 ## Lectures plan
@@ -25,7 +26,7 @@ This repository contains materials to the Data Science 2 - NMFP436 course.
 | 14.4.2026 | [Neural Networks IV](https://github.com/wenceslasdk/data-science-2/blob/main/Lectures/DataScience2_ConvolutionNeuralNetworksI.pdf)  | Ondřej
 | 21.4.2026 | [Neural Networks V](https://github.com/wenceslasdk/data-science-2/blob/main/Lectures/DataScience2_ConvolutionNeuralNetworksII.pdf)   | Ondřej
 | 28.4.2026 | [Neural Networks VI](https://github.com/wenceslasdk/data-science-2/blob/main/Lectures/DataScience2_TextEmbeddings.pdf)  | Ondřej
-| 5.5.2026  | Neural Networks VII | Ondřej 
+| 5.5.2026  | [Neural Networks VII](https://github.com/wenceslasdk/data-science-2/blob/main/Lectures/DataScience2_LargeLanguageModels.pdf) | Ondřej 
 | 12.5.2026 | Guest Lecture       | Marek Židek
 | 19.5.2026 | Exam                | TBA
 
@@ -43,7 +44,7 @@ This repository contains materials to the Data Science 2 - NMFP436 course.
 | 14.4.2026 | [Neural Networks II](https://github.com/wenceslasdk/data-science-2/blob/main/Practicals/04_neural_networks/NN_mnist.ipynb)               | Ondřej
 | 21.4.2026 | [Neural Networks III](https://github.com/wenceslasdk/data-science-2/blob/main/Practicals/04_neural_networks/NN_convolutions.ipynb)              | Ondřej
 | 28.4.2026 | [Neural Networks IV](https://github.com/wenceslasdk/data-science-2/blob/main/Practicals/04_neural_networks/NN_finetuning.ipynb)               | Ondřej 
-| 5.5.2026  | Neural Networks V                | Ondřej
+| 5.5.2026  | [Neural Networks V](https://github.com/wenceslasdk/data-science-2/blob/main/Practicals/04_neural_networks/NN_transformers.ipynb)                | Ondřej
 | 12.5.2026 | Neural Networks VI               | Ondřej
 | 19.5.2026 | Exam                             | TBA
 
@@ -51,6 +52,23 @@ To receive the course credit, students must successfully work out two home assig
 one will be focused on decision trees and the other one on neural networks. 
 There are only two assignments, but they will be complex and require considerable amount of work. 
 Details will be published later in the semester. The course credit is a necessary requirement to take the final exam.
+
+## LLM Usage Guidelines for the Exam
+
+The exam consists of two parts: **preparation** and an **oral examination**.
+
+### 1. Preparation (LLM allowed)
+
+You will be given time to prepare, during which **you may use any tools** — including LLMs (ChatGPT, Claude, Copilot, etc.), notes, the internet, and so on.
+
+### 2. Oral Examination (no LLM)
+
+After the preparation phase, the examiner will sit down with you. From that point on, **you may not use any tools** — no LLMs, no notes, no internet.
+
+During the oral part, you are expected to:
+
+- **Explain what each part of your code does.** You do not need to be able to write the code from memory, but you must understand what you wrote and why.
+- **Answer theoretical questions without any assistance.** Questions may cover anything from the lectures or exercises.
 
 <!--- For the first assignment we have the following competition: https://www.kaggle.com/t/55b8baf8b4294622a400c7a7c3d15cc7 --->
 
