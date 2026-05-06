@@ -10,6 +10,7 @@ Contact:
 **Changes:**
 - Practicals from 31. 3. are swapped with the lecture from 24. 3. — this means two lectures one week, followed by two practicals the next week.
 - Section on LLM during exams usage added (see below)
+- on 5.5., we continued with the lecture instead of practicals, content from [Neural Networks VII](https://github.com/wenceslasdk/data-science-2/blob/main/Lectures/DataScience2_LargeLanguageModels.pdf) will be part of the exam only up to the Training section (excluded)
 
 This repository contains materials to the Data Science 2 - NMFP436 course.
 ## Lectures plan
@@ -44,8 +45,8 @@ This repository contains materials to the Data Science 2 - NMFP436 course.
 | 14.4.2026 | [Neural Networks II](https://github.com/wenceslasdk/data-science-2/blob/main/Practicals/04_neural_networks/NN_mnist.ipynb)               | Ondřej
 | 21.4.2026 | [Neural Networks III](https://github.com/wenceslasdk/data-science-2/blob/main/Practicals/04_neural_networks/NN_convolutions.ipynb)              | Ondřej
 | 28.4.2026 | [Neural Networks IV](https://github.com/wenceslasdk/data-science-2/blob/main/Practicals/04_neural_networks/NN_finetuning.ipynb)               | Ondřej 
-| 5.5.2026  | [Neural Networks V](https://github.com/wenceslasdk/data-science-2/blob/main/Practicals/04_neural_networks/NN_transformers.ipynb)                | Ondřej
-| 12.5.2026 | Neural Networks VI               | Ondřej
+| 5.5.2026  | přednáška - pokračování [Neural Networks VII](https://github.com/wenceslasdk/data-science-2/blob/main/Lectures/DataScience2_LargeLanguageModels.pdf)                 | Ondřej
+| 12.5.2026 | [Neural Networks V](https://github.com/wenceslasdk/data-science-2/blob/main/Practicals/04_neural_networks/NN_transformers.ipynb)               | Ondřej
 | 19.5.2026 | Exam                             | TBA
 
 To receive the course credit, students must successfully work out two home assignments, 
